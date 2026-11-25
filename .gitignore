@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+.DS_Store
+*.pklgit add .gitignore
+git commit -m "Stop tracking venv and add .gitignore"
+git push origin main
